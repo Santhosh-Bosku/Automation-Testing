@@ -1,0 +1,56 @@
+Advantages and Disadvantages of Waterfall Model:
+Waterfall Model:
+Waterfall Model is process of software development which is divided into different phases:
+
+The Phases are:
+	Requirement Analysis
+	System Design
+	Implementation
+	Testing
+	Deployment
+	Maintenance
+
+Advantages of Waterfall Model:
+	Waterfall Model is simple to use and understand.
+	Phases of waterfall model are approached only one in the cycle. 
+	Waterfall Model is best for the projects with well-defined and understood requirements.
+	Results and Process are well documented
+
+Disadvantages of Waterfall Model:
+	Waterfall model is not suggested for long and on-going projects.
+	It can’t accept the new requirements during the process.
+	Waterfall model can’t handle the project with the chance of change in requirement.
+	Once a phase is completed we can’t go back for improvement and changes, we can just give feedback on it. 
+	If any new requirement are to be added then they are considered in next life cycle of project.
+
+
+
+V Model:
+In the V Model both testing and development is planned parallel.
+There are two phases that are considered parallel in V Model. Coding is dependent on the Both phases.
+
+Verification Phase:
+	Business Requirement Analysis.
+	System Design Analysis.
+	Architectural Design Analysis.
+	Module Design Analysis.
+
+Validation Phase:
+	Unit Testing
+	Integrated Testing
+	System Testing
+	Acceptance Testing
+
+Coding Phase:
+Based on the outcomes of validation and verification phases in Coding Phase the design and implementation of project is considered and code accordingly is done.
+
+Advantages:
+	All the Phases are completed one at a time.
+	Simple and easy to understand.
+	As each phase is test and has deliverables, managing the project is easy.
+
+Disadvantages:
+	Once a phase is completed we can’t go back for improvement and changes, we can just give feedback on it.
+	V model is recommended for long and on-going project.
+	Once the project is at testing Stage it  is difficult to go back and add any new requirement.
+
