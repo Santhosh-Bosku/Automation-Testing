@@ -1,0 +1,98 @@
+
+/**** mail id: vasu.vespag@gmail.com ****/
+
+
+
+Write a Java program to find the factorial of a number.
+Java Program to read number (entered by user)
+Java Program to check if a number is positive or negative
+Java Program to add two numbers
+Java Program to Find ASCII value of a Character
+Java Program to Multiply two Numbers
+Java Program to Calculate Area of Triangle
+
+
+Define a “Clock” class that does the following: -
+    a. Accept hours, minutes and seconds.
+    b. Check the validity numbers.
+    c. Set the time to AM/PM mode.
+  Use necessary constructors and methods to do the above task.
+
+Design a class for a bank database the database should support the following operations.
+    1. Deposit a certain amount into an account,
+    2. Withdrawing a certain amount from an account,
+    3. Return a value specifying the amount (i.e. balance) in an amount.
+
+Write a java program which initialization earning of an employee. The program should
+calculate the income tax to be paid by the employee as per the criteria given below:
+Slab rate              IT rate
+Upto Rs. 50,000        Nil
+Upto Rs. 60,000        10% on additional amount
+Upto Rs. 1,50,000      20% on additional amount
+Above Rs. 1,50,000     30% on additional amount
+
+We have to calculate the percentage of marks obtained in three subjects (each out of 100) by student
+A and in four subjects (each out of 100) by student B.Create an abstract class 'Marks' with an abstract 
+method 'getPercentage'. It is inherited by two other classes 'A' and 'B' each having a method with the same
+name which returns the percentage of the students. The constructor of student A takes the marks in three
+subjects as its parameters and the marks in four subject as its parameters for student B. Create an object 
+for eac of the two classes and print the percentage of marks for both the students.
+
+Create a class named 'PrintNumber' to print various numbers of different datatypes by creating different 
+methods with the same name 'printn' having a parameter for each datatype.
+
+
+Create a class to print an integer and a character with two methods having the same name but different sequence 
+of the integer and the character parameters.For example, if the parameters of the first method are of the form 
+(int n, char c), then that of the second method will be of the form (char c, int n).
+
+
+Create a class to print the area of a square and a rectangle. The class has two methods with the same name but 
+different number of parameters. The method for printing area of rectangle has two parameters which are length and
+breadth respetively while the other method for printing area of square has one parameter which is side of square.
+
+
+
+
+Create a class 'Student' with three data members which are name, age and address. The constructor of the class 
+assigns default values name as "unknown", age as '0' and address as "not available". It has two members with the 
+same name 'setInfo'. First method has two parameters for name and age and assigns the same whereas the second 
+method takes has three parameters which are assigned to name, age and address respectively. Print the name, 
+age and address of 10 students.
+Hint - Use array of objects
+
+Create a class 'Degree' having a method 'getDegree' that prints "I got a degree". It has two subclasses namely 
+'Undergraduate' and 'Postgraduate' each having a method with the same name that prints "I am an Undergraduate" 
+and "I am a Postgraduate" respectively. Call the method by creating an object of each of the three classes.
+
+
+A boy has his money deposited $1000, $1500 and $2000 in banks-Bank A, Bank B and Bank C respectively. We have 
+to print the money deposited by him in a particular bank. Create a class 'Bank' with a method 'getBalance' 
+which returns 0. Make its three subclasses named 'BankA', 'BankB' and 'BankC' with a method with the same name 
+'getBalance' which returns the amount deposited in that particular bank. Call the method 'getBalance' by the 
+object of each of the three banks.
+
+
+Write a Java program and compute the sum of the digits of an integer.
+
+Write a Java program to compute the area of a hexagon.
+
+Write a Java program to reverse a string
+
+Write a Java program to print the odd numbers from 1 to 99. Prints one number per line
+
+Write a Java program to accept a number and check the number is even or not. Prints 1 if the number is even or 0 if the number is odd.
+
+
+
+Write a Java program to print numbers between 1 to 100 which are divisible by 3, 5 and by both.
+
+Write a Java program to convert a string to an integer in Java
+
+Write a Java program that accepts three integers from the user and return true if two or more of them (integers ) have the same rightmost digit. The integers are non-negative
+
+Write a Java program to convert seconds to hour, minute and seconds.
+
+Write a Java program to reverse a word.
+
+Write a program to create an arraylist of colours.
