@@ -54,3 +54,23 @@ Disadvantages:
 	V model is recommended for long and on-going project.
 	Once the project is at testing Stage it  is difficult to go back and add any new requirement.
 
+
+Iterative Model:
+
+Iterative model is an process of software development in which a project is develped in various iterations.
+which means in iterative model the basic functionality of a project is developed in first iteration later if any addition requirment are needed 
+there are added to next cycle of iteration
+
+These iteration can be considered as Versions of an project
+
+Advantges:
+	1)Add a new feature or requirement is possible
+	2)Early Development of project is possible
+	3)major requirements can be developed and additional requirements can be added later.
+	4)Risk analysis is better.
+	5)cost efficient even it has a new requirement to be added
+
+Dis-Advantage:
+	1)More Resources are Required.
+	2)More managing power is Required.
+	3)For Risk Analysis we need skill Resources

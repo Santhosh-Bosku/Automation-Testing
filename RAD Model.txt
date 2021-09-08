@@ -1,0 +1,34 @@
+RAD Model:
+
+Rapid Application Development Model is a process of Software Development which focuses on rapid development
+of project prototype.
+In RAD model a project is develped as functional prototype which are intergrated to make a complete project.
+It is important that we develop the prototypr as reusable.
+
+Phases of RAD Model:
+
+Business Modelling:
+	The business model for the product under development is designed in terms of flow of information and 
+the distribution of information between various business channels. A complete business analysis is performed
+to find the vital information for business, how it can be obtained, how and when is the information processed
+and what are the factors driving successful flow of information.
+
+Data Modeling:
+	The information gathered in the Business Modelling phase is reviewed and analyzed to form sets of data 
+objects vital for the business. The attributes of all data sets is identified and defined. The relation between
+these data objects are established and defined in detail in relevance to the business model.
+
+Process Modelling:
+	The data object sets defined in the Data Modelling phase are converted to establish the business
+information flow needed to achieve specific business objectives as per the business model. The process model
+for any changes or enhancements to the data object sets is defined in this phase. Process descriptions for adding,
+deleting, retrieving or modifying a data object are given.
+
+Application Generation:
+	The actual system is built and coding is done by using automation tools to convert process and data models
+into actual prototypes.
+
+Testing and Turnover:
+	The overall testing time is reduced in the RAD model as the prototypes are independently tested during every
+iteration. However, the data flow and the interfaces between all the components need to be thoroughly tested with
+complete test coverage. Since most of the programming components have already been tested, it reduces the risk of any major issues.
