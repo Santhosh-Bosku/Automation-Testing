@@ -1,0 +1,47 @@
+Software Testing Life Cycle:
+	STLC is a process of with has different phases performed during the Software Testing Process.
+
+Phases in STLC:
+	
+	Requirement Analysis
+		|
+		Test Planning
+			|
+			Test Case Development
+				|
+				Test Environment Setup
+					|
+					Test Execution
+						|
+						Test closure
+
+
+Requirement Analysis:
+
+	In this phase Quality Assurance Team analysis the Requirement that are needed to be tested
+If anything is missing the Quality Assurance Team approaches the Stakeholders for better understanding.
+
+Test Planning:
+
+	In this phase all the Test phases are defined. The manager of test team allocates the 
+resource that are needed for testing. this Phases comes after once the gathering of requirement is complete.
+
+Test Case Development:
+
+	In this Phase after the completion of Test planning the test team takes a note for detailed test cases.
+Test team aslo perpares the test data needed for the testing. once the its done the Quality Assurance Team
+reviews it.
+
+Test Environment Setup:
+
+	This Phase is setting up the environment where the software is tested. This Phase is independent as
+it started along with test case development. Test environment is decided by developer and customer, Testing team 
+is not invloved.
+
+Test Execution:
+
+	In this phase the testing team starts executing the test cases prepared in the test Environment.
+
+Test Closure:
+
+	In this phase the testing process is analyzed.
