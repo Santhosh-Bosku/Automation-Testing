@@ -1,0 +1,48 @@
+
+>50000 <= 60000 10%
+>60000 <= 150000 20%
+of 18 
+ 
+    0 50000  ------> -1,25000,				-1, 0, 1	49999 50000 50001
+50001 60000  ------> 55000,				50002		59999 60000 60001
+60001 150000 ------> 100000, 160000			60002		149999 150000 150001
+
+One of the fields on a form contains a texr box accepts numeric values in the 18 to 25. Identify
+the valid Equivalence class.
+
+17 18 19	24 25 26 => Boundaries
+
+valid Equivalence => 18 to 25
+Invalid Equivalence => < 17, 25 <
+
+
+
+In the Examination,  a candidate has to score a minimum of 24 marks in order to clear the exam. The 
+Maximum that he can score is 40 marks. Identify the valid and invalid Equivalence values if the student 
+clear the exam.
+
+Boundaries => 23 24 26 		39 40 41 
+
+Valid Equivalence => 24 to 40
+Invalid Equivalence => < 24 , > 40
+
+
+
+
+The Switch is Switched off once the Tempertaure falls below 18 and then it is turned on when the temperature
+is more than 21. When the temperature is more than 21 . Identify the Equivalence values.
+
+Boundaries => 17 18 19		20 21 22
+
+Class I => < 18
+Class II => 18 to 21
+Class II => > 21
+
+Valid Equivalence -> 18 to 21
+Invalid Equivalence -> < 18, > 21
+
+>=18 to <=25 	12,22,28
+
+0 to 23 - fail	15
+24 to 40 - pass 30
+more than 40 - Invalid Score 45 
