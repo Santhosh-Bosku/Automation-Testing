@@ -32,3 +32,17 @@ Testing and Turnover:
 	The overall testing time is reduced in the RAD model as the prototypes are independently tested during every
 iteration. However, the data flow and the interfaces between all the components need to be thoroughly tested with
 complete test coverage. Since most of the programming components have already been tested, it reduces the risk of any major issues.
+
+Advantages:
+
+	1) Change in requirement can be accepted.
+	2) Progress of project can be measured.
+	3) Components are developed as reuseable which decreases work load.
+	4) Integration from very beginning solves a lot of integration issues.
+
+Dis-Advantages:
+ 
+	1) Complexity in management
+	2) High Modeling Skills are Required
+	3) Projects which can be modularized can be devveloped in RAD Model
+	4) User involvement is required through out the life cycle
