@@ -1,0 +1,9 @@
+BlackBox Testing
+
+Functional Testing 			NonFunctional Testing
+
+Smoke						Load
+Sanity						Volume Testing
+Regrssion Testing				Stress Testing
+ReTesting					Accessability Testing
+						

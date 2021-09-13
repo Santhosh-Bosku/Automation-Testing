@@ -7,7 +7,7 @@ of 18
 50001 60000  ------> 55000,				50002		59999 60000 60001
 60001 150000 ------> 100000, 160000			60002		149999 150000 150001
 
-One of the fields on a form contains a texr box accepts numeric values in the 18 to 25. Identify
+One of the fields on a form contains a text box accepts numeric values in the 18 to 25. Identify
 the valid Equivalence class.
 
 17 18 19	24 25 26 => Boundaries
@@ -46,3 +46,32 @@ Invalid Equivalence -> < 18, > 21
 0 to 23 - fail	15
 24 to 40 - pass 30
 more than 40 - Invalid Score 45 
+
+A program to validtes a numeric fields as follows:
+values less than 10 are rejected, values between 10 and 21 are accepted, values greater than or equal to 22 arerejected
+
+Boundaries: 9 10 11		20 21 22
+
+class I => < 10
+Class II => 10 to 21
+Class III => > 21
+
+Valid Equivalence: 10 to 21
+Invalid Equivalence: < 10, > 20
+
+Given the following specification, which of the following values for ages in the SAME Equivalence partition?
+
+If you are less than 18, you are too young to be insured.
+between 18 and 30 inclusive, you will recieve a 20% discount.
+Anyone over 30 is not eligible for a discount.
+
+
+Boundaries: 17 18 19 		29 30 31
+
+Class I => 	< 18
+Class II => 18 to 30
+class III => 	> 30
+
+Valid Equivalence: 18 to 30
+
+Invalid Equivalnce: < 18, > 30
